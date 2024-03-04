@@ -75,5 +75,5 @@ The Worldwide City Guide Web Service is deployed on Azure App Service for global
 Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
 
 
-[0]: assets/architecture.png
+[0]: assets/architecture.jpeg
 [1]: assets/website.gif
